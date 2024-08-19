@@ -1,0 +1,94 @@
+.details1-details {
+  width: 1829px;
+  display: flex;
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  padding-top: var(--dl-space-space-fourunits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fourunits);
+  justify-content: center;
+}
+.details1-container {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.details1-text1 {
+  fill: var(--dl-color-theme-primary1);
+  color: var(--dl-color-theme-primary1);
+  text-align: left;
+  font-family: "Raleway";
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  animation-name: flash;
+  animation-delay: 1s;
+  animation-duration: 500ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.details1-details-heading {
+  width: 80%;
+  text-align: left;
+  font-family: "Merriweather";
+  line-height: 1.6;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.details1-details-sub-heading {
+  color: var(--dl-color-gray-800);
+  font-size: 18px;
+  text-align: left;
+  line-height: 1.6;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.details1-navlink {
+  text-decoration: none;
+}
+.details1-fragment {
+  display: contents;
+}
+.details1-text5 {
+  display: inline-block;
+}
+.details1root-class-name {
+  left: 300px;
+  right: 1400px;
+  bottom: 76px;
+  position: static;
+  max-width: 1000px;
+  align-self: center;
+}
+@media(max-width: 991px) {
+  .details1-details-sub-heading {
+    text-align: center;
+    padding-left: var(--dl-space-space-threeunits);
+    padding-right: var(--dl-space-space-threeunits);
+  }
+}
+@media(max-width: 767px) {
+  .details1-details {
+    align-items: center;
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+    flex-direction: column;
+    justify-content: center;
+  }
+  .details1-container {
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .details1-text1 {
+    text-align: center;
+  }
+  .details1-details-heading {
+    text-align: center;
+  }
+  .details1-details-sub-heading {
+    text-align: center;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+}

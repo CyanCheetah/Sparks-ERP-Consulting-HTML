@@ -1,0 +1,125 @@
+.content-list1-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-left: 0px;
+  padding-right: 374px;
+  flex-direction: column;
+}
+.content-list1-max-width {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+}
+.content-list1-content {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.content-list1-ul {
+  width: 100%;
+  align-items: flex-start;
+}
+.content-list1-fragment10 {
+  display: contents;
+}
+.content-list1-text10 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1-fragment11 {
+  display: contents;
+}
+.content-list1-text11 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1-fragment12 {
+  display: contents;
+}
+.content-list1-text12 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1-fragment13 {
+  display: contents;
+}
+.content-list1-text13 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1-fragment14 {
+  display: contents;
+}
+.content-list1-text14 {
+  color: #000000;
+  display: inline-block;
+  align-self: flex-start;
+  font-family: "Inter";
+}
+.content-list1-fragment15 {
+  display: contents;
+}
+.content-list1-text15 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1-fragment16 {
+  display: contents;
+}
+.content-list1-text16 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1-fragment17 {
+  display: contents;
+}
+.content-list1-text17 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1-fragment18 {
+  display: contents;
+}
+.content-list1-text18 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1-fragment19 {
+  display: contents;
+}
+.content-list1-text19 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1-fragment20 {
+  display: contents;
+}
+.content-list1-text20 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1-fragment21 {
+  display: contents;
+}
+.content-list1-text21 {
+  color: #000000;
+  display: inline-block;
+  font-family: "Inter";
+}
+.content-list1root-class-name {
+  background-color: #dbbd11ff;
+}
